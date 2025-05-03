@@ -1,0 +1,512 @@
+[
+  {
+    "AuctionId": 69,
+    "RowId": 60,
+    "Location": "61",
+    "SerialNo": "RKF87421"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 62,
+    "Location": "63",
+    "SerialNo": "RBC98656"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 96,
+    "Location": "97",
+    "SerialNo": "RKF07354"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 119,
+    "Location": "120",
+    "SerialNo": "RFE32338"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 151,
+    "Location": "152",
+    "SerialNo": "RBE45296"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 226,
+    "Location": "228",
+    "SerialNo": "RDE98626"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 262,
+    "Location": "264",
+    "SerialNo": "RDF30734"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 285,
+    "Location": "292",
+    "SerialNo": "RDE43531"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 296,
+    "Location": "303",
+    "SerialNo": "RDD66796"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 321,
+    "Location": "328",
+    "SerialNo": "RDD65125"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 387,
+    "Location": "394",
+    "SerialNo": "RDF26961"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 560,
+    "Location": "1015",
+    "SerialNo": "RYC40400"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 585,
+    "Location": "1040",
+    "SerialNo": "RYC70281"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 594,
+    "Location": "1049",
+    "SerialNo": "RYC70294"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 18,
+    "Location": "19",
+    "SerialNo": "RKE54212"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 54,
+    "Location": "55",
+    "SerialNo": "RPF38685"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 104,
+    "Location": "105",
+    "SerialNo": "RBE71589"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 186,
+    "Location": "187",
+    "SerialNo": "RDE27000"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 229,
+    "Location": "231",
+    "SerialNo": "RDF47872"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 236,
+    "Location": "238",
+    "SerialNo": "RDF00464"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 254,
+    "Location": "256",
+    "SerialNo": "RDG21200"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 293,
+    "Location": "300",
+    "SerialNo": "RDD22976"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 304,
+    "Location": "311",
+    "SerialNo": "RDG53479"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 329,
+    "Location": "336",
+    "SerialNo": "RDD19757"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 404,
+    "Location": "411",
+    "SerialNo": "PDB02072"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 411,
+    "Location": "418",
+    "SerialNo": "RDF51307"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 468,
+    "Location": "905",
+    "SerialNo": "78315167"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 486,
+    "Location": "923",
+    "SerialNo": "BE606069"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 536,
+    "Location": "974",
+    "SerialNo": "PY151823"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 572,
+    "Location": "1027",
+    "SerialNo": "RYF80386"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 84,
+    "Location": "85",
+    "SerialNo": "RKG04553"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 109,
+    "Location": "110",
+    "SerialNo": "RKF49618"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 152,
+    "Location": "153",
+    "SerialNo": "RPD85412"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 227,
+    "Location": "229",
+    "SerialNo": "RDE54885"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 252,
+    "Location": "254",
+    "SerialNo": "RDF27970"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 288,
+    "Location": "295",
+    "SerialNo": "RDE42548"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 295,
+    "Location": "302",
+    "SerialNo": "PDB48714"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 313,
+    "Location": "320",
+    "SerialNo": "RDF47530"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 427,
+    "Location": "434",
+    "SerialNo": "RDG79506"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 513,
+    "Location": "950",
+    "SerialNo": "RDE83198"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 563,
+    "Location": "1018",
+    "SerialNo": "RYG01807"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 25,
+    "Location": "26",
+    "SerialNo": "RBF95010"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 57,
+    "Location": "58",
+    "SerialNo": "RKF36512"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 75,
+    "Location": "76",
+    "SerialNo": "RKF77398"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 258,
+    "Location": "260",
+    "SerialNo": "RDF30750"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 322,
+    "Location": "329",
+    "SerialNo": "RDD65119"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 425,
+    "Location": "432",
+    "SerialNo": "RDG06904"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 458,
+    "Location": "895",
+    "SerialNo": "PT407319"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 10,
+    "Location": "11",
+    "SerialNo": "RPF46517"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 71,
+    "Location": "72",
+    "SerialNo": "RYF76963"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 76,
+    "Location": "77",
+    "SerialNo": "RBF68156"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 101,
+    "Location": "102",
+    "SerialNo": "RBF15488"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 103,
+    "Location": "104",
+    "SerialNo": "RKG01870"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 244,
+    "Location": "246",
+    "SerialNo": "RDC65257"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 305,
+    "Location": "312",
+    "SerialNo": "PDB48708"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 569,
+    "Location": "1024",
+    "SerialNo": "RYB59223"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 571,
+    "Location": "1026",
+    "SerialNo": "RYD35113"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 603,
+    "Location": "1058",
+    "SerialNo": "PY160640"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 32,
+    "Location": "33",
+    "SerialNo": "RKF95618"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 181,
+    "Location": "182",
+    "SerialNo": "RDB64004"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 230,
+    "Location": "232",
+    "SerialNo": "RDF12301"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 232,
+    "Location": "234",
+    "SerialNo": "RDG50535"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 249,
+    "Location": "251",
+    "SerialNo": "RDF75918"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 298,
+    "Location": "305",
+    "SerialNo": "PDB48742"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 332,
+    "Location": "339",
+    "SerialNo": "PDA87375"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 334,
+    "Location": "341",
+    "SerialNo": "RDC74442"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 383,
+    "Location": "390",
+    "SerialNo": "PDB02081"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 566,
+    "Location": "1021",
+    "SerialNo": "RYB40542"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 568,
+    "Location": "1023",
+    "SerialNo": "RYG36518"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 97,
+    "Location": "98",
+    "SerialNo": "RKD57886"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 99,
+    "Location": "100",
+    "SerialNo": "RYG08548"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 231,
+    "Location": "233",
+    "SerialNo": "RDC55557"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 280,
+    "Location": "287",
+    "SerialNo": "RDF89436"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 284,
+    "Location": "291",
+    "SerialNo": "RDF70467"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 333,
+    "Location": "340",
+    "SerialNo": "RDB88680"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 382,
+    "Location": "389",
+    "SerialNo": "RDG16237"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 499,
+    "Location": "936",
+    "SerialNo": "RFD59068"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 74,
+    "Location": "75",
+    "SerialNo": "RBE48447"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 206,
+    "Location": "207",
+    "SerialNo": "RDF05716"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 259,
+    "Location": "261",
+    "SerialNo": "RDE65133"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 291,
+    "Location": "298",
+    "SerialNo": "RDF78789"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 309,
+    "Location": "316",
+    "SerialNo": "RDG31025"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 324,
+    "Location": "331",
+    "SerialNo": "RDD48968"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 424,
+    "Location": "431",
+    "SerialNo": "RDG46994"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 509,
+    "Location": "946",
+    "SerialNo": "LE240800"
+  }
+]
