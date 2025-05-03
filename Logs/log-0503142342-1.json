@@ -1,0 +1,637 @@
+[
+  {
+    "AuctionId": 69,
+    "RowId": 28,
+    "Location": "29"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 60,
+    "Location": "61"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 62,
+    "Location": "63"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 85,
+    "Location": "86"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 96,
+    "Location": "97"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 119,
+    "Location": "120"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 151,
+    "Location": "152"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 153,
+    "Location": "154"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 221,
+    "Location": "222"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 226,
+    "Location": "228"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 260,
+    "Location": "262"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 262,
+    "Location": "264"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 285,
+    "Location": "292"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 296,
+    "Location": "303"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 321,
+    "Location": "328"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 387,
+    "Location": "394"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 419,
+    "Location": "426"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 560,
+    "Location": "1015"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 585,
+    "Location": "1040"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 594,
+    "Location": "1049"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 18,
+    "Location": "19"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 29,
+    "Location": "30"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 54,
+    "Location": "55"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 104,
+    "Location": "105"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 136,
+    "Location": "137"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 186,
+    "Location": "187"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 229,
+    "Location": "231"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 236,
+    "Location": "238"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 254,
+    "Location": "256"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 293,
+    "Location": "300"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 304,
+    "Location": "311"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 329,
+    "Location": "336"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 336,
+    "Location": "343"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 404,
+    "Location": "411"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 411,
+    "Location": "418"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 468,
+    "Location": "905"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 486,
+    "Location": "923"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 536,
+    "Location": "974"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 554,
+    "Location": "1009"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 572,
+    "Location": "1027"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 586,
+    "Location": "1041"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 74,
+    "Location": "75"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 138,
+    "Location": "139"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 206,
+    "Location": "207"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 241,
+    "Location": "243"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 259,
+    "Location": "261"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 291,
+    "Location": "298"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 309,
+    "Location": "316"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 324,
+    "Location": "331"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 424,
+    "Location": "431"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 509,
+    "Location": "946"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 610,
+    "Location": "1067"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 9,
+    "Location": "10"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 27,
+    "Location": "28"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 84,
+    "Location": "85"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 102,
+    "Location": "103"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 109,
+    "Location": "110"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 152,
+    "Location": "153"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 202,
+    "Location": "203"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 213,
+    "Location": "214"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 227,
+    "Location": "229"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 252,
+    "Location": "254"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 288,
+    "Location": "295"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 295,
+    "Location": "302"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 313,
+    "Location": "320"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 395,
+    "Location": "402"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 427,
+    "Location": "434"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 488,
+    "Location": "925"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 513,
+    "Location": "950"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 563,
+    "Location": "1018"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 82,
+    "Location": "83"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 97,
+    "Location": "98"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 99,
+    "Location": "100"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 231,
+    "Location": "233"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 280,
+    "Location": "287"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 284,
+    "Location": "291"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 297,
+    "Location": "304"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 299,
+    "Location": "306"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 333,
+    "Location": "340"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 382,
+    "Location": "389"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 499,
+    "Location": "936"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 8,
+    "Location": "9"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 25,
+    "Location": "26"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 39,
+    "Location": "40"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 57,
+    "Location": "58"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 75,
+    "Location": "76"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 207,
+    "Location": "208"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 240,
+    "Location": "242"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 258,
+    "Location": "260"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 322,
+    "Location": "329"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 425,
+    "Location": "432"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 458,
+    "Location": "895"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 575,
+    "Location": "1030"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 593,
+    "Location": "1048"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 32,
+    "Location": "33"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 64,
+    "Location": "65"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 130,
+    "Location": "131"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 149,
+    "Location": "150"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 181,
+    "Location": "182"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 183,
+    "Location": "184"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 215,
+    "Location": "216"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 230,
+    "Location": "232"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 232,
+    "Location": "234"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 249,
+    "Location": "251"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 298,
+    "Location": "305"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 315,
+    "Location": "322"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 332,
+    "Location": "339"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 334,
+    "Location": "341"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 383,
+    "Location": "390"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 566,
+    "Location": "1021"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 568,
+    "Location": "1023"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 581,
+    "Location": "1036"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 10,
+    "Location": "11"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 42,
+    "Location": "43"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 71,
+    "Location": "72"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 76,
+    "Location": "77"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 101,
+    "Location": "102"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 103,
+    "Location": "104"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 110,
+    "Location": "111"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 237,
+    "Location": "239"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 244,
+    "Location": "246"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 269,
+    "Location": "276"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 303,
+    "Location": "310"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 305,
+    "Location": "312"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 569,
+    "Location": "1024"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 571,
+    "Location": "1026"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 603,
+    "Location": "1058"
+  }
+]
