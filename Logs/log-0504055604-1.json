@@ -1,0 +1,44 @@
+[
+  {
+    "AuctionId": 69,
+    "RowId": 563,
+    "Location": "1018",
+    "SerialNo": "RYG01807"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 101,
+    "Location": "102",
+    "SerialNo": "RBF15488"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 305,
+    "Location": "312",
+    "SerialNo": "PDB48708"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 571,
+    "Location": "1026",
+    "SerialNo": "RYD35113"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 298,
+    "Location": "305",
+    "SerialNo": "PDB48742"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 468,
+    "Location": "905",
+    "SerialNo": "78315167"
+  },
+  {
+    "AuctionId": 69,
+    "RowId": 499,
+    "Location": "936",
+    "SerialNo": "RFD59068"
+  }
+]
